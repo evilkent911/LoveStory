@@ -566,7 +566,7 @@ p.underline2-desc {
 }
 
 .ch-grid li {
-    width: 300px;
+    width: 252px;
     height: 300px;
     display: inline-block;
     position: relative;
@@ -575,7 +575,7 @@ p.underline2-desc {
 .ch-grid li img {
     position: absolute;
     left: 0;
-    width: 300px;
+    width: 215px;
     border-radius: 50%;
 }
 
@@ -3241,4 +3241,8 @@ input[type=text]::-ms-clear {
 .joeyee{
     display: block;
     padding-left: 134px;
+}
+
+.girl{
+    margin-left: 56px;
 }
